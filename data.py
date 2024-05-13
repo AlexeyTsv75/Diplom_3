@@ -6,3 +6,7 @@ REGISTRATION = 'api/auth/register'
 USER = 'api/auth/user'
 ORDER_LENT = 'feed'
 
+
+class DataExample:
+    email_example = "alex2024@ya.ru"
+    password_example = "2345678"
